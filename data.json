@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "task": "Belajar IPA"
+  },
+  {
+    "ID": 2,
+    "task": "Belajar PHP"
+  },
+  {
+    "ID": 3,
+    "task": "Belajar Javascript"
+  },
+  {
+    "ID": 4,
+    "task": "Belajar Springboot"
+  },
+  {
+    "ID": 5,
+    "task": "Belajar Angular"
+  },
+  {
+    "ID": 6,
+    "task": "Belajar HTML"
+  }
+]
